@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "eventId": 1,
+    "firstName": "John",
+    "lastName": "Doe",
+    "email": "john.doe@example.com",
+    "phone": "1234567890",
+    "message": "Test message",
+    "registrationDate": "2025-10-28T19:01:18.068Z"
+  },
+  {
+    "id": 2,
+    "eventId": 1,
+    "firstName": "Akshat",
+    "lastName": "singh",
+    "email": "abcd@gmail.com",
+    "phone": "9634780846",
+    "message": "mbhj",
+    "registrationDate": "2025-10-28T19:03:10.800Z"
+  },
+  {
+    "id": 3,
+    "eventId": 1,
+    "firstName": "Akshat",
+    "lastName": "Singh",
+    "email": "abjhdab@gmail.com",
+    "phone": "08077227606",
+    "message": "sdmfbv",
+    "registrationDate": "2025-10-28T19:08:37.456Z"
+  },
+  {
+    "id": 4,
+    "eventId": 1,
+    "firstName": "Test",
+    "lastName": "User",
+    "email": "test@example.com",
+    "phone": "1234567890",
+    "message": "Testing database",
+    "registrationDate": "2025-10-28T19:15:11.695Z"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "title": "Summer Music Festival",
+    "description": "A vibrant outdoor music festival featuring local and international artists across multiple genres.",
+    "date": "2025-07-15",
+    "time": "18:00:00",
+    "location": "Central Park, New York",
+    "category": "Music",
+    "price": 75,
+    "maxAttendees": 500,
+    "imageUrl": "../assets/images/music festival.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Tech Innovation Conference",
+    "description": "Join industry leaders and innovators for a day of tech talks, networking, and product showcases.",
+    "date": "2025-08-20",
+    "time": "09:00:00",
+    "location": "Convention Center, San Francisco",
+    "category": "Technology",
+    "price": 150,
+    "maxAttendees": 300,
+    "imageUrl": "../assets/images/techfest.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Cultural Arts Exhibition",
+    "description": "Explore diverse cultural expressions through art, music, dance, and traditional crafts.",
+    "date": "2025-09-10",
+    "time": "10:00:00",
+    "location": "Art Museum, Chicago",
+    "category": "Cultural",
+    "price": 25,
+    "maxAttendees": 200,
+    "imageUrl": "../assets/images/art.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Family Fun Fair",
+    "description": "A delightful family event with games, rides, food stalls, and entertainment for all ages.",
+    "date": "2025-10-05",
+    "time": "12:00:00",
+    "location": "City Fairgrounds, Los Angeles",
+    "category": "Family",
+    "price": 20,
+    "maxAttendees": 1000,
+    "imageUrl": "../assets/images/fun fair.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Corporate Leadership Summit",
+    "description": "Professional development event focused on leadership skills and business strategy.",
+    "date": "2025-11-12",
+    "time": "08:30:00",
+    "location": "Business Center, Houston",
+    "category": "Corporate",
+    "price": 200,
+    "maxAttendees": 150,
+    "imageUrl": "../assets/images/corporate.jpg"
+  }
+]
